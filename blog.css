@@ -1,0 +1,32 @@
+body {
+	margin:0;
+	font-family: 'Questrial', sans-serif;
+}
+header {
+	padding:10px 30px;
+	width:100%;
+	background-color:#009eec;
+	color:white;
+}
+
+h1 {
+	font-family: 'Grand Hotel', cursive;
+	font-size:3em;
+}
+
+h2 {
+	font-family: 'Cabin', sans-serif;
+	color:#009eec;
+}
+
+article {
+	padding:10px 20px;
+}
+
+footer {
+	padding:10px 20px;
+	width:100%;
+	background-color:#009eec;
+	color:white;
+	text-align:center;
+}
